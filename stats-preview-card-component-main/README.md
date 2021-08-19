@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-(./design/desktop-preview.png)
+![](./design/desktop-preview.png)
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/me-rakib/frontend-mentor/tree/master/stats-preview-card-component-main)
-- Live Site URL: [Live site URL](https://frontend-mentor-opal-eight.vercel.app/)
+- Solution URL: [https://github.com/me-rakib/frontend-mentor/tree/master/stats-preview-card-component-main](https://github.com/me-rakib/frontend-mentor/tree/master/stats-preview-card-component-main)
+- Live Site URL: [https://frontend-mentor-opal-eight.vercel.app/L](https://frontend-mentor-opal-eight.vercel.app/)
 
 ## My process
 
